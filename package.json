@@ -1,0 +1,7 @@
+{
+  "name": "apex-vue",
+  "version": "1.0.0",
+  "author": "Ezequiel Portela <eportela@filomeni.com.ar>",
+  "description": "Integración de APEX con Vuejs",
+  "license": "MIT"
+}
